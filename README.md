@@ -4,7 +4,7 @@ This repository contains materials from the Researcher Development Programme Tea
 
 The slides provided here are an updated version of the slides presented at the National Vitae conference for Researcher Development (September 2023). The project was discussed both in a plenary talk and a one-hour workshop at this event. The workshop was sold out and 96 places were booked.
 
-The workshop abstract was posted on the conference website (https://events.bizzabo.com/460722/agenda/session/1178015)
+The workshop abstract was posted on the conference website https://events.bizzabo.com/460722/agenda/session/1178015
 
 Workshop attendees collectively provided a definition of ‘Decolonisation’, which appears in the updated slides. 69 participants completed a live poll during the workshop, the results of which can also be found in the slides.
 
